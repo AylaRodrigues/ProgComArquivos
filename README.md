@@ -1,4 +1,8 @@
-<h2>Algumas listas de Programação com arquivos </h2>
+<h2>Algumas listas de programação com arquivos </h2>
+<h4>
+ 2º período de 2021
+ Professor André Renato
+</h4>
 
 - <a href= "https://github.com/AylaRodrigues/ProgComArquivos/tree/main/Lista%2001-%20Arquivos%20de%20Texto">Lista 01<a/>
 - <a href= "https://github.com/AylaRodrigues/ProgComArquivos/tree/main/Lista%2002-%20Arquivos%20Bin%C3%A1rios">Lista 02<a/>
